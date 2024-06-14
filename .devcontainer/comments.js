@@ -1,5 +1,5 @@
 // Create web server
-function youProbsWantSomeStupidCodeEvenThoughYouAreTryingToForceMeToBuyPremiumServiceFuckOff() {}
+function CreateWebServer() {}
 
 
 
